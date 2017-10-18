@@ -1,0 +1,6 @@
+[submodule "KNN"]
+	path = KNN
+	url = git@github.com:yrchen/Pyspark_KNN_Sample_code.git
+[submodule "TF-IDF"]
+	path = TF-IDF
+	url = git@github.com:yrchen/Spark_TF-IDF_Sample_code.git
